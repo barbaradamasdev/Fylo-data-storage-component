@@ -4,7 +4,7 @@
 
 ## 🔗 Link
 
-- [Live Version](https://barbaradamasdev.github.io/Fylo-data-storage-component)
+- [Live Version](https://darling-praline-a03c9e.netlify.app/)
 
 ## 😄 Hello!
 
